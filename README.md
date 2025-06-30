@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Israel Oliveira dos Santos
 
-<!--
-**israel9531/israel9531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 3º semestre – UNOPAR  
+🐍 Apaixonado por **Python**, **MySQL**, **desenvolvimento web** e **automação com Excel**  
+💡 Atualmente desenvolvendo um projeto pessoal de banco de dados para placas de ônibus antigas da cidade de Pelotas
 
-Here are some ideas to get you started:
+## 🚧 Projeto em destaque
+### 🔍 [Busca de Placas Antigas – Pelotas](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO)
+Um site feito do zero, com back-end em PHP e banco de dados via phpMyAdmin (MySQL), voltado à busca de placas históricas de ônibus da cidade.  
+✔️ Interface simples e funcional  
+✔️ Busca eficiente por prefixos e modelos  
+✔️ Banco de dados próprio com fotos e informações técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias que domino
+- Python
+- MySQL / phpMyAdmin
+- HTML, CSS, PHP
+- Excel (avançado – fórmulas, filtros, organização de dados)
+
+## 📫 Contato
+- Email: israel_oliveira95@yahoo.com.br
+- GitHub: [@SEU_USUARIO](https://github.com/israel9531)
